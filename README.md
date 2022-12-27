@@ -1,6 +1,8 @@
 # Taller 10 (Laboratorio): 
 ## Construcción de programas usando arreglos bidimensionales
 
+ALISrj & cbhas
+
 * Lenguaje de programación : Java
 * IDE de programación : Netbeans
 * Usar el proyecto de Netbeans creado llamado **Taller10**
